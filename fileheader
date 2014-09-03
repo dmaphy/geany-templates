@@ -1,5 +1,5 @@
 {filename}
 
-(C) Copyright {year} by {developer} <{mail}>
+Written {year} by {developer} <{mail}>
 Version: {version}
 Last Change: {date}
